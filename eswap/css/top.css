@@ -1,0 +1,87 @@
+body {
+	background: #A2CD5A;
+	font-family: Tahoma, Geneva, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+#top_banner{
+height: 100px;
+}
+#up {
+	background-color: #8FBC8F;
+	height: 25px;
+	padding: 2px 10px 3px 10px
+}
+#login{
+	color: white;
+	float: right;
+	font-size: 17px;
+}
+#login a{
+	text-decoration: none;
+	color: white;
+	font-size: 17px;
+}
+#login a:hover{
+	opacity:0.7;
+}
+#search {
+	float: right;
+	border-radius: 10px; 
+	background-color: white;
+	overflow: hidden;
+	margin-right: 5px;
+	margin-top: 1px;
+	opacity:0.7;
+}
+#search input{
+	border: 1px solid white;
+	margin-left: 4px;
+}
+#search .button{
+    border: 1px solid white;
+    background-color: white;
+    font-weight: bold;
+    padding-bottom: 1px;
+}
+#down{
+	height: 50px;
+	background-color:#b68ab7;
+	box-shadow: 0 3px 3px grey;
+}
+.nav{  
+	font-size: 20px; 
+	list-style-type: none; 
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	margin-left: 2%;
+}  
+.nav a:link {
+	color:#666; 
+	text-decoration:none;
+} 
+.nav a:link {
+	color:#FFD700; 
+	text-decoration:none;
+} 
+.nav a:visited {
+	color:#666;
+	text-decoration:none;
+} 
+.nav a:hover {
+	color:white;
+	text-decoration:none;
+	background: #a1d0c6;
+} 
+.nav li{
+	line-height: 50px;
+	float: left; 
+	width: 10%;
+	text-align:center;
+	border-right: 1px solid white;
+} 
+.eswap{
+	background-color: #FF3E96;
+}
+
